@@ -29,4 +29,7 @@ To analyze sales data and identify trends, high-performing regions, and profitab
 - Interactive slicers for dynamic filtering
 
 ## Outcome
+
 This project demonstrates my ability to clean raw data, build DAX measures, and design interactive dashboards that convert data into actionable business insights.
+
+Delete README.md.txt
